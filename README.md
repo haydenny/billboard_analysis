@@ -31,7 +31,7 @@ A dbt + MySQL + Tableau project analyzing 60+ years of Billboard Hot 100 and Gra
 - "Blinding Lights" and "Radioactive" among longest charting songs of their decades
 
 ## Tableau Dashboard
-[Add your Tableau Public URL here]
+https://public.tableau.com/app/profile/hayden.denny/viz/BillboardHot100GrammyAnalysis/BillboardHot100GrammyAnalysis
 
 ## Notes
 - Billboard/Grammy join uses exact artist name matching - fuzzy matching with rapidfuzz would improve accuracy
