@@ -1,0 +1,14 @@
+# CSV files (too large for GitHub, available on Kaggle)
+seeds/*.csv
+exports/*.csv
+
+# dbt
+target/
+dbt_packages/
+logs/
+
+# Mac
+.DS_Store
+
+# R
+.Rhistory
